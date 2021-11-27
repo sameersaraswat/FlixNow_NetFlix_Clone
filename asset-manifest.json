@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FlixNow_NetFlix_Clone/static/css/main.9c287089.chunk.css",
+    "main.js": "/FlixNow_NetFlix_Clone/static/js/main.4299e2d4.chunk.js",
+    "main.js.map": "/FlixNow_NetFlix_Clone/static/js/main.4299e2d4.chunk.js.map",
+    "runtime-main.js": "/FlixNow_NetFlix_Clone/static/js/runtime-main.538a7f17.js",
+    "runtime-main.js.map": "/FlixNow_NetFlix_Clone/static/js/runtime-main.538a7f17.js.map",
+    "static/js/2.0389f931.chunk.js": "/FlixNow_NetFlix_Clone/static/js/2.0389f931.chunk.js",
+    "static/js/2.0389f931.chunk.js.map": "/FlixNow_NetFlix_Clone/static/js/2.0389f931.chunk.js.map",
+    "index.html": "/FlixNow_NetFlix_Clone/index.html",
+    "static/css/main.9c287089.chunk.css.map": "/FlixNow_NetFlix_Clone/static/css/main.9c287089.chunk.css.map",
+    "static/js/2.0389f931.chunk.js.LICENSE.txt": "/FlixNow_NetFlix_Clone/static/js/2.0389f931.chunk.js.LICENSE.txt",
+    "static/media/imdb-logo.179aa3d2.svg": "/FlixNow_NetFlix_Clone/static/media/imdb-logo.179aa3d2.svg",
+    "static/media/logo.abd631a6.svg": "/FlixNow_NetFlix_Clone/static/media/logo.abd631a6.svg",
+    "static/media/play.b31da51e.svg": "/FlixNow_NetFlix_Clone/static/media/play.b31da51e.svg",
+    "static/media/rt-logo.59d2ff0a.svg": "/FlixNow_NetFlix_Clone/static/media/rt-logo.59d2ff0a.svg",
+    "static/media/search.3ca36be4.svg": "/FlixNow_NetFlix_Clone/static/media/search.3ca36be4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.538a7f17.js",
+    "static/js/2.0389f931.chunk.js",
+    "static/css/main.9c287089.chunk.css",
+    "static/js/main.4299e2d4.chunk.js"
+  ]
+}
