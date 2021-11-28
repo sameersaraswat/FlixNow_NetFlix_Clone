@@ -1,6 +1,6 @@
 .signupScreen {
     max-width: 300px;
-    padding: 70px;
+    padding: 50px;
     margin-left: auto;
     margin-right: auto;
     background: rgba(0,0,0,0.85);
@@ -11,7 +11,7 @@
 }
 .signupScreen > form > input {
     outline-width: 0;
-    height: 25px;
+    height: 40px;
     margin-bottom: 14px;
     border-radius: 5px;
     border: none;
