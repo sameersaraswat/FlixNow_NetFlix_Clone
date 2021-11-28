@@ -7,7 +7,7 @@
 .episode:hover div,
 .episode:hover p,
 .episode:hover {
-	background-color: #333;
+	background-color: rgb(199, 194, 194);
 	cursor: pointer;
 }
 

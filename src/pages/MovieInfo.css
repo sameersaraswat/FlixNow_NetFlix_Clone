@@ -53,6 +53,7 @@
 .content__info__overview {
 	width: 60%;
 	justify-content: safe;
+	color: white;
 }
 
 .content .ratings {

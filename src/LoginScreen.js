@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import './LoginScreen.css';
+import logo from "../src/images/logo.svg";
 import SignupScreen from './SignupScreen.js';
 
 function LoginScreen() {
@@ -11,7 +12,7 @@ function LoginScreen() {
             <div className='loginScreen_background'>
                 <img 
                 className='loginScreen_logo'
-                src="FlixNow-logos.jpeg"
+                src={logo}
                 alt="" />
                 <button onClick = {() => setSignIn(true)}
                 className='loginScreen_button'>
