@@ -1,9 +1,12 @@
 .loginScreen {
     position: relative;
     height: 100%;   
-    background: url("https://assets.nflxext.com/ffe/siteui/vlv3/757ab38f-5d08-40bc-b3eb-eaba63ed8203/93c34f94-56c8-40a7-8b2e-b4aac6427977/GB-en-20210125-popsignuptwoweeks-perspective_alpha_website_medium.jpg")
+    background: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2021/03/Netflix-content-titles.jpg")
     center no-repeat; 
     background-size: cover;
+}
+.loginScreen_background > button{
+
 }
 .loginScreen_logo {
     position: fixed;
@@ -11,6 +14,7 @@
     width: 150px;
     object-fit: contain;
     padding-left: 20px;
+    color: white;
 }
 .loginScreen_button {
     position: fixed;
@@ -73,6 +77,9 @@
     max-width: 600px;
 }
 .loginScreen_getStarted {
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
     padding: 16px 20px;
     font-size: 1rem;
     color: #fff;

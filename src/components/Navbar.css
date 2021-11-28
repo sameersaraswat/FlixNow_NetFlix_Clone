@@ -16,7 +16,8 @@
 	background-color: black;
 }
 .navbar__poster img {
-	width: 120px;
+	width: 190px;
+	height: 74px;
 	object-fit: contain;
 }
 
@@ -38,6 +39,7 @@
 	padding: 10px 20px;
 	border-radius: 7px;
 	background: red;
+	color: white;
 }
 
 .navbar_poster img.profile_search {

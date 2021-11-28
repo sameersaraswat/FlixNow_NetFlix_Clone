@@ -11,7 +11,7 @@ function LoginScreen() {
             <div className='loginScreen_background'>
                 <img 
                 className='loginScreen_logo'
-                src="../Screenshot 2021-11-24 170910.png" 
+                src="FlixNow-logos.jpeg"
                 alt="" />
                 <button onClick = {() => setSignIn(true)}
                 className='loginScreen_button'>
